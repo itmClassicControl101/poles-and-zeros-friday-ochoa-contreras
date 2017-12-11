@@ -1,0 +1,36 @@
+Check list for laboratory reports - session 2.
+
+Formato y forma:
+- [ ] Ortografía: Varias faltas
+- [ ] Redacción: Buena
+- [x] Plagio: No hay
+- [ ] Imágenes, Tablas, Referencias y Ecuaciones: Tablas
+
+Contenido:
+- [X] Introducción
+- [ ] Metodología
+    - [x] Fuerza bruta RL
+    - [ ] Función de transferencia RL por inspección: Está incorrecta
+- [ ] Desarrollo
+    - [ ] Circuito RC/RL respuesta transitoria (Tau): La medición de Tau es incorrecta
+    - [x] Circuito  RC/RL respuesta en frecuencia (Bode):
+- [ ] Simulación
+    - [ ] Matlab/Scilab step response: No es correcta
+    - [x] LTI Spice simulación
+- [ ] Resultados 
+    - [ ] Comparación de resultados teórico-prácticos (transitorios): No
+    - [x] Comparación de resultados teórico-prácticos (Bode)
+- [ ] Conclusiones
+    - [x] Individuales
+    - [x] Técnicas
+    - [x] Interesantes y reflexivas
+
+Repositorio:
+- [x] Carpetas
+- [x] Código Scilab/Matlab
+- [x] Código Spice
+- [x] Código de Latex
+- [x] Reporte en PDF
+- [x] Entregado en tiempo
+
+Grade 86
